@@ -1,0 +1,8 @@
+1) apples
+2)bananas
+3) apples
+4) bananas
+5) pear pear
+6) apples apples
+7) peaches peach
+8) cherry
